@@ -8,7 +8,7 @@ Below you will find some information on how to run scripts.
 - Use to install npm/webpack packages in the root plagin folder (it is in case you want to make some changes in this plugin)
 
 ## 👉  `npm run build`
-- Use to build production code for your block inside `dist` folder after you made some changes 
+- Use to build production code after you made some changes 
 
 There are mor commands in the package.json file
 
